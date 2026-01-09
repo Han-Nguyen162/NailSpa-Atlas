@@ -9,6 +9,9 @@ A competitor analysis tool for nail/spa businesses in the U.S., comparing pricin
 
 🎉 **NEW:** Now with enhanced UX, full validation, interactive charts, and SEO optimization!
 
+<img width="1536" height="1024" alt="NailSpa" src="https://github.com/user-attachments/assets/91023f4e-9857-42a4-b665-cb78d97143e8" />
+
+
 ---
 
 ## 🚀 Quick Start
